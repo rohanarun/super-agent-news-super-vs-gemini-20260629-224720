@@ -1,0 +1,28 @@
+{
+  "citations": [
+    "[blog.google](https://blog.google)",
+    "[digitalapplied.com](https://www.digitalapplied.com/blog/gemini-3-5-flash-computer-use-agent-automation-2026)",
+    "[searchenginejournal.com](https://www.searchenginejournal.com/google-gemini-can-now-control-your-computer-hackers-are-already-targeting-ai-agents/)",
+    "[bwmarketingworld.com](https://bwmarketingworld.com)",
+    "[ndtvprofit.com](https://www.ndtvprofit.com)"
+  ],
+  "design_plan": "rng=42; AIDA: hero=attention, cache thesis=interest, Gemini facts=desire, CTA=action; hero width targets 2\u20133 lines at 1120px; bento grid uses grid-auto-flow:dense verified; all competitors label sweep complete; primary CTA contrast checked (ink on paper).",
+  "generated_at": "2026-06-29T22:47:27.569851+00:00",
+  "headline": "Super vs Gemini \u2014 personal AI agents for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with Gemini",
+    "competitor": "Gemini",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Gemini. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Gemini AI agent",
+      "Gemini AI assistant",
+      "Gemini automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-gemini",
+    "title": "Super vs Gemini"
+  },
+  "summary": "Gemini is rapidly pushing computer\u2011use agents into its ecosystem, starting with Gemini 3.5 Flash in public preview. Super is built specifically for people who want a personal AI agent that actually operates a computer \u2014 and reuses a computer-use cache so repeated workflows get faster and cheaper over time."
+}
